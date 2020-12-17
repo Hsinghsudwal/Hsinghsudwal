@@ -1,3 +1,5 @@
 # Hsinghsudwal.github.io
-link[https://hsinghsudwal.github.io/Hsinghsudwal/]
+
+https://hsinghsudwal.github.io/Hsinghsudwal/
+
 My portfolio
