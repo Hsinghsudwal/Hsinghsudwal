@@ -32,11 +32,16 @@ Data Scientist
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Hsinghsudwal"><img src="https://github-readme-stats.vercel.app/api?username=Hsinghsudwal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hsinghsudwal's GitHub stats" /></a>
+![Hsinghsudwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsinghsudwal&show_icons=true&theme=transparent)
+<table ><tr>
+    <td width="30%" align="center"><a href="#/"><img src="https://github-readme-stats.vercel.app/api?username=Hsinghsudwal&show_icons=true&hide_title=true&hide_border=true&theme=buefy"></a></td>
+    <td width="30%" align="center">
+    
+
 
 <a href="http://www.github.com/Hsinghsudwal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hsinghsudwal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Hsinghsudwal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinghsudwal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</tr></table>
 
 <b>Top Repositories</b>
 
@@ -48,14 +53,7 @@ there 👋
 |--------|---------|-------|-------|
 |![Coding](https://skillicons.dev/icons?i=python,js,cpp&perline=3)|![AI&ML](https://skillicons.dev/icons?i=pytorch,opencv,sklearn,tensorflow,fastapi,flask&perline=3)|![Infra](https://skillicons.dev/icons?i=aws,gcp,azure,docker,grafana,vscode&perline=3)| ![Hobby](https://skillicons.dev/icons?i=threejs,p5js,react,blender,figma,unreal,arduino,raspberrypi&perline=3)|
 
-![Hsinghsudwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsinghsudwal&show_icons=true&theme=transparent)
-<table ><tr>
-    <td width="30%" align="center"><a href="#/"><img src="https://github-readme-stats.vercel.app/api?username=Hsinghsudwal&show_icons=true&hide_title=true&hide_border=true&theme=buefy"></a></td>
-    <td width="30%" align="center">
-        
-        
-        <a href="#/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinghsudwal&layout=compact&hide_title=true&hide_border=true&theme=buefy"></a></td> -->
-</tr></table>
+
 
 
 
