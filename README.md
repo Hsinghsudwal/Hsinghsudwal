@@ -43,3 +43,22 @@ Data Scientist
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Hsinghsudwal/GitHub.com/mlops-ml.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hsinghsudwal&repo=GitHub.com/mlops-ml.git&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+there 👋
+| Coding | AI & ML | Tools | Hobby |
+|--------|---------|-------|-------|
+|![Coding](https://skillicons.dev/icons?i=python,js,cpp&perline=3)|![AI&ML](https://skillicons.dev/icons?i=pytorch,opencv,sklearn,tensorflow,fastapi,flask&perline=3)|![Infra](https://skillicons.dev/icons?i=aws,gcp,azure,docker,grafana,vscode&perline=3)| ![Hobby](https://skillicons.dev/icons?i=threejs,p5js,react,blender,figma,unreal,arduino,raspberrypi&perline=3)|
+
+![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnrozhkov&show_icons=true&theme=transparent)
+<table ><tr>
+    <td width="30%" align="center"><a href="#/"><img src="https://github-readme-stats.vercel.app/api?username=mnrozhkov&show_icons=true&hide_title=true&hide_border=true&theme=buefy"></a></td>
+<!--     <td width="30%" align="center"><a href="#/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnrozhkov&layout=compact&hide_title=true&hide_border=true&theme=buefy"></a></td> -->
+</tr></table>
+
+
+
+
+
+
+
