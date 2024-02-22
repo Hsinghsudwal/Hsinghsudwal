@@ -35,8 +35,7 @@ Data Scientist
 
 ![Hsinghsudwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsinghsudwal&show_icons=true&theme=transparent)
 <table ><tr>
-    <td width="30%" align="center"><a href="#/"><img src="https://github-readme-stats.vercel.app/api?username=Hsinghsudwal&show_icons=true&hide_title=true&hide_border=true&theme=buefy"></a></td>
-    <td width="30%" align="center">
+   
     
 
 
