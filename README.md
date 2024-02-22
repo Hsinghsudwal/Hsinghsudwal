@@ -1,13 +1,9 @@
-# Hsinghsudwal.github.io
-
-https://hsinghsudwal.github.io/Hsinghsudwal/
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 My name is Harinder Singh Sudwal
 =============================================================================================================================================
 
-Data Scientist
+Machine Learning 
 --------------
 
 3+ years experienced Machine Learning with proven success in building successful algorithms & predictive models for different industries. Highly adept at clustering & classification, web scraping, data analysis & visualization to increase business efficiency. Passionate engineer & thriving analyst with the ability to apply ML techniques & algorithm development to solve realworld business problems.
