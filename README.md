@@ -12,10 +12,13 @@ Data Scientist
 
 3+ years experienced Machine Learning with proven success in building successful algorithms & predictive models for different industries. Highly adept at clustering & classification, web scraping, data analysis & visualization to increase business efficiency. Passionate engineer & thriving analyst with the ability to apply ML techniques & algorithm development to solve realworld business problems.
 
-* 🌍  I'm based in California
-* ✉️  You can contact me at [sudwalh@gmail.com](mailto:sudwalh@gmail.com)
-* 🧠  I'm learning LLMS
-* ⚡  Working on old notebook...
+
+* 🌍  I'm based in California
+* 🖥️  See my portfolio at [My Portfolio](http://hsinghsudwal.github.io/Hsinghsudwal/)
+* ✉️  You can contact me at [Gmail](mailto:sudwalh@gmail.com)
+* 🧠  I'm learning LLMS
+* ⚡  Working on old notebook
+
 
 ### Skills
 
