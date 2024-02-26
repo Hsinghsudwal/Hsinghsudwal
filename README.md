@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/mckinsey-mlops-machine-learning-operations-what-is-DYMk2THiOU0akjDCQ9" width="100"/>
+  <img src="https://giphy.com/stickers/bicomsystems-gopher-golang-bicom-dEvfJaOEzxl9AUSzHP" width="100"/>
 </div>
 
 
