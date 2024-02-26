@@ -23,8 +23,7 @@ Machine Learning
 * ⚡  Working on old notebook
 
 
-### Skills
-
+### :hammer_and_wrench: Skills Languages and Tools :
 
 <p align="left">
    
