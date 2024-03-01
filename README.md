@@ -44,6 +44,18 @@ Machine Learning
 
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/Streamlit-colored.svg" width="36" height="36" alt="STREAMLIT" /></a>
 
+
+
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain.svg" title="Streamlit" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+
+
+</div>
+
+
+
 </p>
 
 # Socials
