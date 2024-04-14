@@ -13,8 +13,7 @@
 - 🖥️ See my portfolio at [My Portfolio](http://hsinghsudwal.github.io/Hsinghsudwal/)
 - ✉️ You can contact me at [Gmail](mailto:sudwalh@gmail.com)
 - 🧠 Working on **Deep Learning**
-- 👯 I’m looking to collaborate on **NLP**
-- 🤝 I'm learning **LLMS** and looking for help with **Generative Ai**
+- 👯 I’m looking to collaborate on **NLP**, **LLMS** and **Generative Ai**.
 - 👨‍💻 All of my projects are available at [sudwalh@gmail.com](sudwalh@gmail.com)
 - 📝 I regularly write articles on [Medium](Medium)
 
