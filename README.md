@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>, I'm HARINDER SINGH SUDWAL</h1>
 <h3 align="center">A passionate for Machine learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hsinghsudwal&label=Profile%20views&color=0e75b6&style=flat" alt="hsinghsudwal" /> </p>
+//<p align="left"> <img src="https://komarev.com/ghpvc/?username=hsinghsudwal&label=Profile%20views&color=0e75b6&style=flat" alt="hsinghsudwal" /> </p>
 
 # :woman_technologist: About Me :
 
