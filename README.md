@@ -15,7 +15,7 @@
 - 🧠 Working on **Deep Learning**
 - 👨‍💻 I’m looking to collaborate on **NLP**, **LLMS** and **Generative Ai**.
 
-SKILL SET 🦾
+<!--SKILL SET 🦾
 👨‍💻 Languages: Python
 
 💾 Databases: MongoDB, MySQL 
@@ -26,7 +26,7 @@ SKILL SET 🦾
 
 👾 Deep Learning: ANN/MLP, CNN, RNN, LSTM, BERT
 
-🔭 I'm currently working on Generative Artificial Intelligence (AI Engineer)
+🔭 I'm currently working on Generative Artificial Intelligence (AI Engineer)-->
 
 ## 🌐 Socials:
 <p align="left"> <a href="https://www.github.com/Hsinghsudwal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/harinder-singh-sudwal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@sudwalh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> 
