@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>, I'm HARINDER SINGH SUDWAL</h1>
-<h3 align="center">A passionate for Machine learning</h3>
+<h3 align="center">Machine learning</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hsinghsudwal&label=Profile%20views&color=0e75b6&style=flat" alt="hsinghsudwal" /> </p>-->
 
-## 🤖 Machine Learning
+## 🤖 About Me
 3+ years experienced Machine Learning with proven success in building successful algorithms & predictive models for different industries. Highly adept at clustering & classification, web scraping, data analysis & visualization to increase business efficiency. Passionate engineer & thriving analyst with the ability to apply ML techniques & algorithm development to solve realworld business problems.
 
 - 🌍 I'm based in California
