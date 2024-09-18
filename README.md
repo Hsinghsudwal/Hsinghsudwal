@@ -3,10 +3,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hsinghsudwal&label=Profile%20views&color=0e75b6&style=flat" alt="hsinghsudwal" /> </p>-->
 
-# :woman_technologist: About Me :
-
-## Machine Learning
-
+## :🤖: Machine Learning
 3+ years experienced Machine Learning with proven success in building successful algorithms & predictive models for different industries. Highly adept at clustering & classification, web scraping, data analysis & visualization to increase business efficiency. Passionate engineer & thriving analyst with the ability to apply ML techniques & algorithm development to solve realworld business problems.
 
 - 🌍 I'm based in California
