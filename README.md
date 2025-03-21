@@ -4,16 +4,19 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hsinghsudwal&label=Profile%20views&color=0e75b6&style=flat" alt="hsinghsudwal" /> </p>-->
 
 ## 🤖 About Me
-* A machine learning enthusiast, focused on building simple algorithms and models to help businesses make better decisions.
-* Familiar with clustering & classification (grouping and sorting data), data analysis, and visualization, using these techniques to improve business processes.
-* Learning and applying web scraping, collecting data from websites to help businesses gain useful insights.
-* A passionate learner, eager to use machine learning to develop solutions that address real-world business challenges.
+
+- A machine learning enthusiast, focused on building simple algorithms and models to help businesses make better decisions.
+- Familiar with clustering & classification (grouping and sorting data), data analysis, and visualization, using these techniques to improve business processes.
+- Learning and applying web scraping, collecting data from websites to help businesses gain useful insights.
+- A passionate learner, eager to use machine learning to develop solutions that address real-world business challenges.
+
+---
 
 - 🌍 I'm based in California
 - 🖥️ See my portfolio at [My Portfolio](http://hsinghsudwal.github.io/Hsinghsudwal/)
 - ✉️ You can contact me at [Gmail](mailto:sudwalh@gmail.com)
-- 🧠 
-- 👨‍💻 I’m looking to collaborate on **Deep Learning**, **NLP**, **LLMS** and **Generative Ai**.
+- 👨‍💻 I’m looking to collaborate on **Deep Learning**, **NLP**, **LLMs**, and **Generative AI**.
+
 
 
 ## 🌐 Socials:
