@@ -1,5 +1,5 @@
 <!--<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>, I'm HARINDER SINGH SUDWAL</h1>-->
-<h4 align="center">Harinder Singh Sudwal</h4>
+<h2 align="center">Harinder Singh Sudwal</h2>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hsinghsudwal&label=Profile%20views&color=0e75b6&style=flat" alt="hsinghsudwal" /> </p>-->
 
