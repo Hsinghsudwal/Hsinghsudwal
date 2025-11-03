@@ -13,7 +13,7 @@
 ---
 
 <!--- 🌍 I'm based in California-->
-- 🖥️ See my portfolio at [My Portfolio](http://hsinghsudwal.github.io/Hsinghsudwal/)
+<!-- - 🖥️ See my portfolio at [My Portfolio](http://hsinghsudwal.github.io/Hsinghsudwal/)-->
 - ✉️ You can contact me at [Gmail](mailto:sudwalh@gmail.com)
 - 👨‍💻 I’m looking to collaborate on **Deep Learning**, **NLP**, **LLMs**, and **Generative AI**.
 
