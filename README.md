@@ -43,6 +43,7 @@
 
 ## 📊 GitHub Stats:
 ![Hsinghsudwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsinghsudwal&show_icons=true&theme=transparent)
+<!--[![Hsinghsudwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsinghsudwal)](https://github.com/Hsinghsudwal/github-readme-stats)-->
 
 <table ><tr>
 
