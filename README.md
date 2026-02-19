@@ -27,6 +27,11 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 
 ---
 
+## 🛸 Current Works
+* 🏆 [AgenticWorkflow](Github link) - integration autonomous system
+* 🎉 [AgenticSwarn](github link) - multi-agent self-healing
+
+
 ## 🌐 Socials
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sudwalh@gmail.com)
@@ -89,7 +94,7 @@ A machine learning enthusiast focused on transforming raw data into actionable b
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinghsudwal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinghsudwal&layout=compact&theme=transparent)](https://github.com/Hsinghsudwal)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinghsudwal&layout=compact&theme=transparent)](https://github.com/Hsinghsudwal)-->
 
 ---
 
