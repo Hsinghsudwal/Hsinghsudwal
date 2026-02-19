@@ -80,16 +80,14 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hsinghsudwal&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hsinghsudwal&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<p align="tight">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinghsudwal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-![Hsinghsudwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsinghsudwal&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinghsudwal&layout=compact&theme=transparent)](https://github.com/Hsinghsudwal)
 
