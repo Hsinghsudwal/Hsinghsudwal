@@ -18,14 +18,13 @@
 ## 🤖 About Me
 
 A machine learning enthusiast focused on transforming raw data into actionable business intelligence. I love bridging the gap between complex algorithms and real-world impact.
+
 - 🚀 Learning in public by applying ML techniques to real business problems
 - 🧠 Exploring LLMs & Generative AI to build practical, scalable solutions
 - ⚙️ Building end-to-end pipelines — from data ingestion to deployment using MLOps best practices
 - 📊 Strong interest in clustering, classification, data analysis, and visualization
 - 🌐 Applying web scraping to collect and leverage business data
 - 🤝 Open to collaboration on Deep Learning, NLP, LLMs, and AI-driven applications
-
-- ✉️ Reach me at [sudwalh@gmail.com](mailto:sudwalh@gmail.com)
 ---
 
 ## 🛸 Current Works
@@ -36,7 +35,7 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 
 ## 🌐 Socials
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sudwalh@gmail.com)
+[![Gmail](mailto:sudwalh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Hsinghsudwal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 
