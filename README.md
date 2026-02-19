@@ -1,141 +1,100 @@
-<table ><tr>
+# Hi, I'm Harinder 👋
 
-<a href="http://www.github.com/Hsinghsudwal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hsinghsudwal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+📍 **Aspiring ML Engineer** | 🤖 **Machine Learning Enthusiast** | 📊 **Data-Driven Problem Solver**
 
-</tr></table>
+[![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)](https://keras.io/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue)](https://mlflow.org/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=black)](https://aws.amazon.com/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Hsinghsudwal/GitHub.com/mlops-ml.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hsinghsudwal&repo=GitHub.com/mlops-ml.git&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-</p>
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>, I'm HARINDER SINGH SUDWAL</h1>
-<h3 align="center">Machine Learning Engineer | AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hsinghsudwal&label=Profile%20views&color=0e75b6&style=flat" alt="hsinghsudwal" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/steipete">
-    <img src="https://img.shields.io/badge/Open%20Source-Lover-orange?style=for-the-badge&logo=github" alt="Open Source Lover"/>
-  </a>
-</p>
+> Building simple, effective ML solutions that help businesses make smarter decisions — one model at a time.
 
 ---
 
-## 🧠 About Me
+## 🤖 About Me
 
-> *"Turning data into decisions, one model at a time."*
+A machine learning enthusiast focused on transforming raw data into actionable business intelligence. I love bridging the gap between complex algorithms and real-world impact.
 
-I'm a machine learning enthusiast with a passion for building practical AI solutions that solve real business problems. My approach combines technical expertise with business acumen to create algorithms that actually make a difference.
-
-- 🔭 I'm currently working on **Generative AI** and **LLM applications**
-- 🌱 Constantly learning and exploring new frontiers in **Deep Learning** and **NLP**
-- 👯 Looking to collaborate on **ML/DL projects**, **NLP applications**, and **Generative AI**
-- 💬 Ask me about **Machine Learning**, **Data Science**, **Python**, and **AI architecture**
-- 📫 Reach me at: [sudwalh@gmail.com](mailto:sudwalh@gmail.com)
-- ⚡ Fun fact: I believe the best models are the ones that actually get deployed!
+- 🔍 Familiar with **clustering & classification** — grouping and sorting data to improve business processes
+- 📊 Passionate about **data analysis & visualization** — turning numbers into stories
+- 🌐 Learning and applying **web scraping** to collect and harness web data for business insights
+- 🚀 Eager to collaborate on **Deep Learning**, **NLP**, **LLMs**, and **Generative AI**
+- ✉️ Reach me at [sudwalh@gmail.com](mailto:sudwalh@gmail.com)
 
 ---
 
-## 🛠️ My Digital Toolbox
+## 🌐 Socials
 
-### **Languages & Databases**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sudwalh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Hsinghsudwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages & Frameworks**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
-### **ML/DL Framework**
+**Machine Learning & AI**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-### **Data Science Stack**
+**Data & Visualization**
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
-### **DevOps & Cloud**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black)
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**MLOps & DevOps**
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-### **Web Frameworks**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hsinghsudwal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hsinghsudwal&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinghsudwal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">MLOps Pipeline</h3>
-      <p align="center">
-        <a href="https://github.com/Hsinghsudwal/GitHub.com/mlops-ml.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hsinghsudwal&repo=GitHub.com/mlops-ml.git&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">More Projects Coming Soon!</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge" />
-      </p>
-    </td>
-  </tr>
-</table>
+![Hsinghsudwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsinghsudwal&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinghsudwal&layout=compact&theme=transparent)](https://github.com/Hsinghsudwal)
 
 ---
 
-## 🤝 Let's Connect!
+## 🚀 What I'm Doing
 
-<p align="center">
-  <a href="https://www.github.com/Hsinghsudwal">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/harinder-singh-sudwal">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="http://www.medium.com/@sudwalh">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="mailto:sudwalh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- **Learning in public** — applying ML techniques to real-world business problems
+- **Exploring LLMs & GenAI** — understanding how large language models can create practical solutions
+- **Building end-to-end pipelines** — from raw data ingestion to model deployment with MLOps best practices
+- **Open to collaboration** — especially on NLP, deep learning, and AI-driven applications
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+### Philosophy
 
-<p align="center">
-  <i>Open source enthusiast | Machine Learning Practitioner | Lifelong Learner</i>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-</p>
+> "Every dataset tells a story — I'm here to help businesses understand theirs."
