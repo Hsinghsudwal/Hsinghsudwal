@@ -27,17 +27,18 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 - 🤝 Open to collaboration on Deep Learning, NLP, LLMs, and AI-driven applications
 ---
 
-## 🛸 Current Works
+## 📂 Projects
 * 🏆 [AgenticWorkflow](https://github.com/Hsinghsudwal/agentic_workflow) - integration autonomous system
 * 🔬 [HealthAgent](https://github.com/Hsinghsudwal/health_report_agent) - Agent analyze reports and provide health insights.
 * 🎉 [AgenticSwarn](github link) - multi-agent self-healing
 
+---
 
 ## 🌐 Socials
 
-[![Gmail](mailto:sudwalh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Hsinghsudwal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sudwalh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Hsinghsudwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harinder-singh-sudwal/)
 
 ---
 
