@@ -37,7 +37,7 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 
 ## 🛠️ Skills & Tools
 
-**Languages & Frameworks**
+<!--**Languages & Frameworks**-->
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
@@ -45,7 +45,7 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
-**Machine Learning & AI**
+<!--**Machine Learning & AI**-->
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -53,19 +53,19 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-**Data & Visualization**
+<!--**Data & Visualization**-->
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
-**Databases**
+<!--**Databases**-->
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**MLOps & DevOps**
+<!--**MLOps & DevOps**-->
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -79,6 +79,15 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hsinghsudwal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hsinghsudwal&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinghsudwal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ![Hsinghsudwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsinghsudwal&show_icons=true&theme=transparent)
 
