@@ -18,13 +18,14 @@
 ## 🤖 About Me
 
 A machine learning enthusiast focused on transforming raw data into actionable business intelligence. I love bridging the gap between complex algorithms and real-world impact.
+- 🚀 Learning in public by applying ML techniques to real business problems
+- 🧠 Exploring LLMs & Generative AI to build practical, scalable solutions
+- ⚙️ Building end-to-end pipelines — from data ingestion to deployment using MLOps best practices
+- 📊 Strong interest in clustering, classification, data analysis, and visualization
+- 🌐 Applying web scraping to collect and leverage business data
+- 🤝 Open to collaboration on Deep Learning, NLP, LLMs, and AI-driven applications
 
-- 🔍 Familiar with **clustering & classification** — grouping and sorting data to improve business processes
-- 📊 Passionate about **data analysis & visualization** — turning numbers into stories
-- 🌐 Learning and applying **web scraping** to collect and harness web data for business insights
-- 🚀 Eager to collaborate on **Deep Learning**, **NLP**, **LLMs**, and **Generative AI**
 - ✉️ Reach me at [sudwalh@gmail.com](mailto:sudwalh@gmail.com)
-
 ---
 
 ## 🛸 Current Works
@@ -96,15 +97,6 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 </p>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hsinghsudwal&layout=compact&theme=transparent)](https://github.com/Hsinghsudwal)-->
-
----
-
-## 🚀 What I'm Doing
-
-- **Learning in public** — applying ML techniques to real-world business problems
-- **Exploring LLMs & GenAI** — understanding how large language models can create practical solutions
-- **Building end-to-end pipelines** — from raw data ingestion to model deployment with MLOps best practices
-- **Open to collaboration** — especially on NLP, deep learning, and AI-driven applications
 
 ---
 
