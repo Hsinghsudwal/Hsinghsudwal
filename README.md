@@ -31,7 +31,7 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 * 🏆 [AgenticWorkflow](https://github.com/Hsinghsudwal/agentic_workflow) - integration autonomous system
 * 🔬 [HealthAgent](https://github.com/Hsinghsudwal/health_report_agent) - Agent analyze reports and provide health insights.
 * 🎉 [AgenticSwarn](github link) - multi-agent self-healing
-* :pushpin: [ML_DL_and_GenAI_Mastery]() - AI builder
+* :pushpin: [ML_DL_and_GenAI_Mastery](https://github.com/Hsinghsudwal/ML_DL_and_GenAI_Mastery) - AI builder
 
 ---
 
