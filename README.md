@@ -33,9 +33,13 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 * 🔬 [HealthAgent](https://github.com/Hsinghsudwal/health_report_agent) - Agent analyze reports and provide health insights.
 * 🎉 [AgenticSwarn](github link) - multi-agent self-healing
 * :pushpin: [ML_DL_and_GenAI_Mastery](https://github.com/Hsinghsudwal/ML_DL_and_GenAI_Mastery) - AI builder
+* [Agentic ML DevOps](https://github.com/Hsinghsudwal/Agentic_ml_devops/tree/main/01_ml_ci_devops) - Automated
+* 🎛️ [ML Telco Churn Contract](https://github.com/Hsinghsudwal/ml_telco_customer_churn_contract_driven_aware) - Phases llm
+* :bank: [ML Risk Fraud System](https://github.com/Hsinghsudwal/ml_risk_fraud_system) - llm
 
 * 👏 Complete
-* :spam: [Spam Classification](https://github.com/Hsinghsudwal/mlops_nlp_spam_classification) - NLP: Spam messages
+* 📱 [ML Sentimental Analysis](https://github.com/Hsinghsudwal/ml_sentimenal_analysis) - NLP: tweet, serveless, kubernetes
+* 🆕: [Spam Classification](https://github.com/Hsinghsudwal/mlops_nlp_spam_classification) - NLP: Spam messages
 * 🏥 [ML hospital Readmission](https://github.com/Hsinghsudwal/ml_hospital_readmission) - Identify high risk and improve outcome care
 * ↩️ [ML churn](https://github.com/Hsinghsudwal/ml_customer_churn) - Improve churn customer
 * 💳 [ML Credit Card Risk](https://github.com/Hsinghsudwal/ml_credit_card_risk) - Risk is good or bad for indivisual
