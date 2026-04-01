@@ -28,7 +28,7 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 ---
 
 ## 📂 Projects
-- 🏗️ Underconstruction
+* 🏗️ Underconstruction
 - 🏆 [AgenticWorkflow](https://github.com/Hsinghsudwal/agentic_workflow) - integration autonomous system
 - [HealthAgent](https://github.com/Hsinghsudwal/health_report_agent) - Agent analyze reports and provide health insights.
 - 🎉 [AgenticSwarn](github link) - multi-agent self-healing
