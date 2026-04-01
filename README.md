@@ -28,7 +28,7 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 ---
 
 ## 📂 Projects
-* 🏗️ Underconstruction
+**🏗️ Underconstruction**
 - 🏆 [AgenticWorkflow](https://github.com/Hsinghsudwal/agentic_workflow) - integration autonomous system
 - [HealthAgent](https://github.com/Hsinghsudwal/health_report_agent) - Agent analyze reports and provide health insights.
 - 🎉 [AgenticSwarn](github link) - multi-agent self-healing
@@ -37,7 +37,7 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 - 🎛️ [ML Telco Churn Contract](https://github.com/Hsinghsudwal/ml_telco_customer_churn_contract_driven_aware) - Phases llm
 - :bank: [ML Risk Fraud System](https://github.com/Hsinghsudwal/ml_risk_fraud_system) - llm
 
-**👏 Complete
+**👏 Complete**
 - 📱 [ML Sentimental Analysis](https://github.com/Hsinghsudwal/ml_sentimenal_analysis) - NLP: tweet, serveless, kubernetes
 - 🆕: [Spam Classification](https://github.com/Hsinghsudwal/mlops_nlp_spam_classification) - NLP: Spam messages
 - 🏥 [ML hospital Readmission](https://github.com/Hsinghsudwal/ml_hospital_readmission) - Identify high risk and improve outcome care
