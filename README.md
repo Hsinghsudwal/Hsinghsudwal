@@ -28,7 +28,7 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 ---
 
 ## 📂 Projects
-* 🏗️ Underconstruction
+- 🏗️ Underconstruction
 - 🏆 [AgenticWorkflow](https://github.com/Hsinghsudwal/agentic_workflow) - integration autonomous system
 - [HealthAgent](https://github.com/Hsinghsudwal/health_report_agent) - Agent analyze reports and provide health insights.
 - 🎉 [AgenticSwarn](github link) - multi-agent self-healing
@@ -37,7 +37,7 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 - 🎛️ [ML Telco Churn Contract](https://github.com/Hsinghsudwal/ml_telco_customer_churn_contract_driven_aware) - Phases llm
 - :bank: [ML Risk Fraud System](https://github.com/Hsinghsudwal/ml_risk_fraud_system) - llm
 
-* 👏 Complete
+- 👏 Complete
 - 📱 [ML Sentimental Analysis](https://github.com/Hsinghsudwal/ml_sentimenal_analysis) - NLP: tweet, serveless, kubernetes
 - 🆕: [Spam Classification](https://github.com/Hsinghsudwal/mlops_nlp_spam_classification) - NLP: Spam messages
 - 🏥 [ML hospital Readmission](https://github.com/Hsinghsudwal/ml_hospital_readmission) - Identify high risk and improve outcome care
@@ -49,7 +49,7 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 - 🏦 [ML Loan Approval](https://github.com/Hsinghsudwal/ml_loan_approval_prediction) - Apply for loan from banks to lender
 - 🧑‍⚕️ [ML disease Sysptom](https://github.com/Hsinghsudwal/ml_disease_symptom/tree/main) - Predict disease based on symptoms
 - 🚑 [ML Cirrhosis](https://github.com/Hsinghsudwal/ml_cirrhosis_project) - Liver diseases
-- :potable_water: [ML Water Quality](https://github.com/Hsinghsudwal/ml_water_quality/tree/main) -Wwater supply and sanitation benefits
+- :potable_water: [ML Water Quality](https://github.com/Hsinghsudwal/ml_water_quality/tree/main) -Water supply and sanitation benefits
 - :health_worker: [ML Thyroid](https://github.com/Hsinghsudwal/ml_thyroid_mlflow_app) - Health Improvement
 - :house: [ML Real Estates Pipeline](https://github.com/Hsinghsudwal/Real-Estates-Pipelines/tree/main) - Housing Prediction
 - :newspaper: [ML News Classified](https://github.com/Hsinghsudwal/ml_fake_news_classification/tree/main) - Classified News
