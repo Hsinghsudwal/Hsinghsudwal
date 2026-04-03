@@ -34,7 +34,7 @@ A machine learning enthusiast focused on transforming raw data into actionable b
 - 🎉 [AgenticSwarn](github link) - multi-agent self-healing
 - :pushpin: [ML_DL_and_GenAI_Mastery](https://github.com/Hsinghsudwal/ML_DL_and_GenAI_Mastery) - AI builder
 - [Agentic ML DevOps](https://github.com/Hsinghsudwal/Agentic_ml_devops/tree/main/01_ml_ci_devops) - Automated
-- 🎛️ [ML Telco Churn Contract](https://github.com/Hsinghsudwal/ml_telco_customer_churn_contract_driven_aware) - Phases llm
+- 🎛️ [ML Customer Propensity Contract](https://github.com/Hsinghsudwal/ml_customer_propensity_contract_driven_aware) - Phases llm
 - :bank: [ML Risk Fraud System](https://github.com/Hsinghsudwal/ml_risk_fraud_system) - llm
 
 **👏 Complete**
