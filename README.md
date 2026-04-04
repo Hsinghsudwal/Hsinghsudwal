@@ -17,14 +17,12 @@
 
 ## 🤖 About Me
 
-A machine learning enthusiast focused on transforming raw data into actionable business intelligence. I love bridging the gap between complex algorithms and real-world impact.
+Machine learning enthusiast evolving from data-driven modeling to building agentic AI systems.
 
-- 🚀 Learning in public by applying ML techniques to real business problems
-- 🧠 Exploring LLMs & Generative AI to build practical, scalable solutions
-- ⚙️ Building end-to-end pipelines — from data ingestion to deployment using MLOps best practices
-- 📊 Strong interest in clustering, classification, data analysis, and visualization
-- 🌐 Applying web scraping to collect and leverage business data
-- 🤝 Open to collaboration on Deep Learning, NLP, LLMs, and AI-driven applications
+- 🚀 Start with data: collect (web scraping), clean, analyze, and engineer features to solve real business problems  
+- ⚙️ Build & deploy: train models (clustering, classification), productionize pipelines, and monitor performance using MLOps best practices  
+- 🧠 Evolve to AI systems: integrate LLMs into end-to-end workflows, designing agentic solutions that reason, automate, and improve over time  
+- 🤝 Open to collaboration: Deep Learning, NLP, LLMs, and Agentic AI applications 
 ---
 
 ## 📂 Projects
