@@ -1,4 +1,4 @@
-# Hi, I'm Harinder 👋
+# 👋 I'm Harinder
 
 📍 **Aspiring ML Engineer** | 🤖 **Machine Learning Enthusiast** | 📊 **Data-Driven Problem Solver**
 
